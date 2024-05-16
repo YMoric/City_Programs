@@ -1,0 +1,37 @@
+いったん先に画像をすべて軽量化する
+JPGをRGBに変換後、トリミングする。
+
+①Anaconda Navigatarを立ち上げる
+(my_env)を選択
+②CMYKフォルダにRGBに変換するよう全部の画像を入れる
+③VS-codeでconvert_toRGB_except_RGB_and_transparent_but_those_copied.pyを実行
+またはconvert_toRGB_only_CMYK_but_all_file_copied.py
+④RGBフォルダに画像ができる。
+
+⑤トリミング
+https://jp.cyberlink.com/blog/photoeditor/1837/best-photo-editing-tool-to-crop-images
+
+MyEditでトリミング pw:koa2202
+⑥imgsフォルダにトリミングする画像を入れる
+⑦trimmig720.pyを実行(元のフォルダにリサイズされる）
+⑧画像を軽量化（NXかする）
+
+
+2）Photoshopでできる画像の一括処理（主にリサイズや画像解像度・モードの変換に有効）は
+
+　「アクション」と「バッチ」をお試しください。（来月号からで大丈夫です）
+
+自動処理のときソース側
+「”開く”コマンドを無視」はチェックしない
+
+実行後
+「”別名で保存コマンドを省略」にチェックを入れる
+アクションを作るときに保工程までして、ここにチェックをいれておく。
+
+
+　https://www.asobou.co.jp/blog/web/action-batch
+
+Macにjpg, png. psを入れたフォルダを作り、処理後に画像を入れるRGBフォルダを作成
+ファイル→自動処理→パッチでPNG（RGBセット）、jpg_RGBset, PS_RGBのアクションをそれぞれのフォルダを指定して実行　RGBフォルダに画像がコピーされる
+
+※pngはweb用のファイルなのですでにrgbになっているから、モード変換しなくてよい
