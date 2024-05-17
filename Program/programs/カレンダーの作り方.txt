@@ -39,29 +39,29 @@ PDFからでhtmlの書き出しはできるが、使えない
 
 <<コードの書き方例>>
 
-<td class="red">5<div class="bw">メンタルヘルス研修会（新入社員向け）</div></td>
+<td class="red">5<div class="bw">********</div></td>
 
 <td class="red">4<div></div></td>
 
-<td>2<div>メンタルヘルス研修会（新入社員向け）</div></td>
+<td>2<div>*******</div></td>
 <td class="blue">3<div class="bw"></div></td>
 
-<td class="red">1<div class="bw"><span class="tri"></span>歯と口の健康週間、食育月間の展示コーナー（〜30日）</div></td>
-<td class="red">4<div class="bw"><span class="tri"></span>いなばの〜んびり歩こうや‼</div></td>
+<td class="red">1<div class="bw"><span class="tri"></span>********</div></td>
+<td class="red">4<div class="bw"><span class="tri"></span>*******</div></td>
 
-<td class="red">4<div class="bw"><span class ="gr">Jリーグ・FC岐阜</span>
+<td class="red">4<div class="bw"><span class ="gr">******</span>
 
-<div class=""> <span class="tri">▶</span>いなばの〜んびり歩こうや‼</div>
+<div class=""> <span class="tri">▶</span>******</div>
 
-<div = class="bw">ホタル鑑賞ウィーク in 旧美歎水源地2023（〜20日）</span><span class="">▶</span>クローバーとっとり公開講座 </div>
+<div = class="bw"*******（〜20日）</span><span class="">▶</span>******* </div>
 
-<div>認知症介護家族の集い<span class="tri">▶</span>童謡唱歌100曲マラソン</div>
+<div>*******<span class="tri">▶</span>********</div>
 
-<div>今月のプレゼント応募〆</span><span class="tri">▶</span>ホール等文化施設のあり方に関する方向性（素案）市民政策コメント募集〆</div>
+<div>今月のプレゼント応募〆</span><span class="tri">▶</span*******</div>
 
 <td class="lr">29<img class="gaina" src="../_userdata/61a5a31e191.png" width="30px"><div class="lbw">扇ノ山山開き祭登山
 <span class="tri">▶</span>
-<span class="lgr">Jリーグ・FC大阪</span>
+<span class="lgr">********</span>
 </div>
 </td>
 
@@ -74,7 +74,7 @@ PDFからでhtmlの書き出しはできるが、使えない
 <td>2
 <div>
 <img class="gaina" src="../_userdata/61a5a31e191.png" width="30px">
-Jリーグ・鹿児島ユナイテッドFC
+*********
 </div>
 </td>
 
@@ -84,12 +84,12 @@ Jリーグ・鹿児島ユナイテッドFC
 
 
 <div class="bw">2023賀露白いか祭り（23日）
-<span class="tri">▶</span><span class="gr">Jリーグ・いわてグルージャ盛岡</span><span class="tri">▶</span><span class="bw">市民医療講演会</span></div>
+<span class="tri">▶</span><span class="gr">*****</span><span class="tri">▶</span><span class="bw">*****</span></div>
 </td>
 
 <td class="red">6
 <div class="bw">
-鳥取城中ノ御門渡櫓門上棟式
+
 </div>
 </td>
 
