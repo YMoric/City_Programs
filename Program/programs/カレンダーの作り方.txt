@@ -83,7 +83,7 @@ PDFからでhtmlの書き出しはできるが、使えない
 
 
 
-<div class="bw">2023賀露白いか祭り（23日）
+<div class="bw">******************
 <span class="tri">▶</span><span class="gr">*****</span><span class="tri">▶</span><span class="bw">*****</span></div>
 </td>
 
